@@ -1,0 +1,18 @@
+
+.logo_nav {
+    width: 80%;
+}
+
+.sidebar .sidebar-wrapper > ul { 
+    min-height: 100vh;
+}
+
+@media all and (max-width: 575px){
+    .sidebar .sidebar-wrapper > ul , .sidebar.-slideable .sidebar-content {
+        margin-top: 140px!important;
+    }    
+    .sidebar .sidebar-tabs {
+        top: 140px!important;
+    }
+
+}
