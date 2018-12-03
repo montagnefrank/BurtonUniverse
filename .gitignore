@@ -1,8 +1,8 @@
-
 /.htaccess
 /.vagrant
 /data
 /www/template
+/www/tests
 /www/assets/scripts/conn.php
 /burtoncloud.code-workspace
 
